@@ -1,2 +1,3 @@
 # TYPDETAILS
-NAME        ROLLNO
+NAME                  ROLLNO
+Jobanjit Singh        606
