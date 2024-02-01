@@ -1,2 +1,3 @@
 # TYPDETAILS
-NAME        ROLLNO
+NAME                    ROLLNO
+SAJANDEEP SINGH          562
