@@ -1,2 +1,4 @@
 # TYPDETAILS
 NAME        ROLLNO
+RADHIKA     596
+RAJI        604
